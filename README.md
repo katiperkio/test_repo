@@ -1,0 +1,4 @@
+- Created a new GH repository for testing
+- Created a local repository for testing
+- Connected repositories
+- Made changes to local repository
