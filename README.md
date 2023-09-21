@@ -2,3 +2,4 @@
 - Created a local repository for testing
 - Connected repositories
 - Made changes to local repository
+- Made changes to remote repository
